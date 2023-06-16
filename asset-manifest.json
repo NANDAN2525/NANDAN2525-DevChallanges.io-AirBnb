@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/css/main.97410ad1.css",
-    "main.js": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/js/main.80c31099.js",
-    "static/js/787.c5ce6120.chunk.js": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/js/787.c5ce6120.chunk.js",
-    "index.html": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/index.html",
-    "main.97410ad1.css.map": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/css/main.97410ad1.css.map",
-    "main.80c31099.js.map": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/js/main.80c31099.js.map",
-    "787.c5ce6120.chunk.js.map": "/NANDAN2525/NANDAN2525-DevChallanges.io-AirBnb.git/static/js/787.c5ce6120.chunk.js.map"
+    "main.css": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/css/main.97410ad1.css",
+    "main.js": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/js/main.4a3f492b.js",
+    "static/js/787.c5ce6120.chunk.js": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/js/787.c5ce6120.chunk.js",
+    "index.html": "/airbnb-clone/DevChallanges.io-AirBnb.git/index.html",
+    "main.97410ad1.css.map": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/css/main.97410ad1.css.map",
+    "main.4a3f492b.js.map": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/js/main.4a3f492b.js.map",
+    "787.c5ce6120.chunk.js.map": "/airbnb-clone/DevChallanges.io-AirBnb.git/static/js/787.c5ce6120.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97410ad1.css",
-    "static/js/main.80c31099.js"
+    "static/js/main.4a3f492b.js"
   ]
 }
