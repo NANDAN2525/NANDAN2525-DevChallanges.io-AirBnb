@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NANDAN2525/winddb.git/static/css/main.97410ad1.css",
-    "main.js": "/NANDAN2525/winddb.git/static/js/main.5ad88e35.js",
-    "static/js/787.c5ce6120.chunk.js": "/NANDAN2525/winddb.git/static/js/787.c5ce6120.chunk.js",
-    "index.html": "/NANDAN2525/winddb.git/index.html",
-    "main.97410ad1.css.map": "/NANDAN2525/winddb.git/static/css/main.97410ad1.css.map",
-    "main.5ad88e35.js.map": "/NANDAN2525/winddb.git/static/js/main.5ad88e35.js.map",
-    "787.c5ce6120.chunk.js.map": "/NANDAN2525/winddb.git/static/js/787.c5ce6120.chunk.js.map"
+    "main.css": "/NANDAN2525-DevChallanges.io-AirBnb/static/css/main.97410ad1.css",
+    "main.js": "/NANDAN2525-DevChallanges.io-AirBnb/static/js/main.5a7c548d.js",
+    "static/js/787.c5ce6120.chunk.js": "/NANDAN2525-DevChallanges.io-AirBnb/static/js/787.c5ce6120.chunk.js",
+    "index.html": "/NANDAN2525-DevChallanges.io-AirBnb/index.html",
+    "main.97410ad1.css.map": "/NANDAN2525-DevChallanges.io-AirBnb/static/css/main.97410ad1.css.map",
+    "main.5a7c548d.js.map": "/NANDAN2525-DevChallanges.io-AirBnb/static/js/main.5a7c548d.js.map",
+    "787.c5ce6120.chunk.js.map": "/NANDAN2525-DevChallanges.io-AirBnb/static/js/787.c5ce6120.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97410ad1.css",
-    "static/js/main.5ad88e35.js"
+    "static/js/main.5a7c548d.js"
   ]
 }
